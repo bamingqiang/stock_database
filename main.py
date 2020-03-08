@@ -3,7 +3,7 @@ import tushare as ts                        # 加载tushare类库，金融接口
 import functions as fc
 from settings import Settings
 import time
-# import pandas as pd
+import pandas as pd
 
 my_settings = Settings()
 
